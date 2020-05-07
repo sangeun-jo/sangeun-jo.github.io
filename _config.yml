@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            임시블로그
+title:            Growth
 tagline:          'A Jekyll theme'
-description:      '공부 또 공부'
+description:      'developer blog'
 url:              https://sangeun-jo.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
