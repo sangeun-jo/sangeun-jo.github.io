@@ -4,7 +4,7 @@ title: IntelliJ 에서 gradle로 querydsl 연동하기
 categories: Java
 tags: 
  - gradle project
- - intelliry J 
+ - intelliJ 
  - querydsl
 ---
 
