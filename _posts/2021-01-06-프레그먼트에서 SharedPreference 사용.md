@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: 프레그먼트에서 SharedPreference 사용
-categories: Java
+categories: Error
 tags:
  - Android studio
  - fragment 
