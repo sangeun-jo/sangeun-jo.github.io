@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: aws lambda에서 chrome driver 사용하기
-categories: Python
+categories: Environment
 tags:
  - python
  - lambda
