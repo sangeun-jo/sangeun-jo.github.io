@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IntelliJ gradle 프로젝트 제목 변경
-categories: Java
+categories: 
 tags: 
  - intelliJ 
  - gradle
