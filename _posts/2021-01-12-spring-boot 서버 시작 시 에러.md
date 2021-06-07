@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: spring-boot 서버 시작 시 에러
-categories: Java
+categories: 
 tags:
  - Java
  - Maven 
