@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Google Calendar api 에러 GoogleAuthException 
-categories: Java
+categories: Error
 tags: 
  - Android Studio
- - error
+ - Java
  - api
 ---
 
