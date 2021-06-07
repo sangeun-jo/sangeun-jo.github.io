@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Git
+title: Error
 --- 
-깃에 대해 정리
+내가 만난 모든 에러들
    
