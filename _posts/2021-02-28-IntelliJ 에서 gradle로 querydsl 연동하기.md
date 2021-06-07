@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IntelliJ 에서 gradle로 querydsl 연동하기 
-categories: Java
+categories: Error
 tags: 
  - gradle project
  - intelliJ 
